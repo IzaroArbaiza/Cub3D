@@ -1,0 +1,13 @@
+NO ./xpm/clouds.xpm
+SO ./xpm/fire-skull.xpm
+WE ./xpm/clouds.xpm
+EA ./xpm/nightmare-galloping.xpm
+
+C 254,212,145
+F 254,150,3
+
+    111111
+    100001 
+    1010N1
+    111111
+

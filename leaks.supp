@@ -1,0 +1,44 @@
+{
+   mlx_leak_init
+   Memcheck:Leak
+   fun:mlx_init
+}
+
+{
+   mlx_leak_new_window
+   Memcheck:Leak
+   fun:mlx_new_window
+}
+
+{
+   mlx_leak_new_image
+   Memcheck:Leak
+   fun:mlx_new_image
+}
+
+{
+   mlx_leak_loop
+   Memcheck:Leak
+   fun:mlx_loop
+}
+
+{
+   mlx_leak_destroy_window
+   Memcheck:Leak
+   fun:mlx_destroy_window
+}
+
+{
+   mlx_leak_destroy_image
+   Memcheck:Leak
+   fun:mlx_destroy_image
+}
+{
+   mlx_XShmCreateImage_leak
+   Memcheck:Leak
+   fun:calloc
+   obj:/lib/x86_64-linux-gnu/libXext.so.6
+   fun:XShmCreateImage
+}
+
+
