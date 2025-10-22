@@ -34,9 +34,9 @@ SRCS =	GNL/get_next_line.c \
 		src/initialize.c \
 			
 
-CC = gcc
+CC = cc
 RM = rm -f
-CFLAGS = -Wall -Wextra -Werror -g3 -fsanitize=address,leak
+CFLAGS = -Wall -Wextra -Werror -g3
 LIBFT = Libft/libft.a
 OBJS = $(SRCS:.c=.o)
 
