@@ -62,8 +62,8 @@ Start the game by running the executable with a map:
 Move the player using W/A/S/D and rotate the camera with the arrow keys, also the game prevents walking through walls for a realistic experience.
 
 <p align="center">
-  <img src="assets/video01.gif" width="500px" alt="Player Movement" style="display:inline-block;"/>
-  <img src="assets/video02.gif" width="500px" alt="Player Movement" style="display:inline-block;"/>
+  <img src="assets/video01.gif" width="400px" alt="Player Movement" style="display:inline-block;"/>
+  <img src="assets/video02.gif" width="400px" alt="Player Movement" style="display:inline-block;"/>
 </p>
 <br>
 
