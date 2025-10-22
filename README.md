@@ -51,7 +51,7 @@ You can create your own maps by following this format.
 
 ## 🎮 How to Play
 
-1. Start the game by running the executable with a map:
+Start the game by running the executable with a map:
 
 ```bash
 ./cub3D maps/map1.cub
@@ -59,15 +59,11 @@ You can create your own maps by following this format.
 ![Cub3D Gameplay](assets/imagen.png)
 
 <br>
-2. Move the player using W/A/S/D and rotate the camera with the arrow keys.
+Move the player using W/A/S/D and rotate the camera with the arrow keys, also the game prevents walking through walls for a realistic experience.
 
-[![Watch Gameplay](assets/imagen.png)](assets/video1.mp4)
-
+<p align="center">
+  <img src="assets/video01.gif" width="500px" alt="Player Movement" style="display:inline-block;"/>
+  <img src="assets/video02.gif" width="500px" alt="Player Movement" style="display:inline-block;"/>
+</p>
 <br>
-3. The game prevents walking through walls for a realistic experience.
-
-
-
-
-
 
